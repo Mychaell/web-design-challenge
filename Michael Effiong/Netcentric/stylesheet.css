@@ -1,0 +1,75 @@
+.container {
+    
+    width: 80%;
+    margin: 1rem auto;
+
+    
+}
+.head{font-weight: 400, 700;
+    font-family: 'Poppins';
+
+
+}
+.body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
+    background: url(./images/bg-desktop.svg)repeat blueviolet;
+    font-size: 100%;
+    width: 1440px;
+}
+.image {
+    width: 300px;
+    float: left;
+    margin-left: 50px;
+
+}
+.text {
+    width: 200px;
+    float: right;
+    margin-right: 300px;
+    color: white;
+
+}
+.footer {
+    width: 300px;
+    margin-left: 1000px;
+    margin-top: 500px;
+}
+.main {
+    margin-top: 50px;
+}
+.text_1 {
+    font-weight: 600;
+    font-size: 1.5em;
+    white-space: nowrap;
+    padding-right: 90px;
+}
+.text_2 {
+    font-weight: 600;
+    font-size: 1.5em;
+    white-space: nowrap;
+}
+.text_4 {
+    background-color: white;
+    color: blueviolet;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-radius: 30px;
+
+}
+.text_3 {
+    
+}
+.fbicon {
+    background-color: white;
+}
+.attribution {
+    color: white;
+}
+a {
+    color: darkkhaki;
+}
+a:link {
+    text-decoration: none;
+}
